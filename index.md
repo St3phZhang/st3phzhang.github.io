@@ -10,6 +10,7 @@ I am currently a PhD candidate in the Data and Knowledge Research Group, School 
 - **Graph Data Analytics and Management:** data mining, data streams, distributed database systems
 - **AI4DB:** Machine learning algorithms for data management and database systems
 - **Graph Learning:** Graph represetation learning for graph data analytics and mining
+
 ## News
 
 - **[Aug. 2023]** One paper about machine-generated data compression is accepted to SIGMOD 2024!

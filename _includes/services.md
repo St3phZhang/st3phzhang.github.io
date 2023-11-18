@@ -10,5 +10,5 @@
 <h4 style="margin:0 10px 0;">External Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://uobevents.eventsair.com/cikm2023/"><autocolor>ACM International Conference on Information and Knowledge Management 2023</autocolor></a></li>
+  <li><a href="https://uobevents.eventsair.com/cikm2023/"><autocolor>ACM International Conference on Information and Knowledge Management (CIKM) 2023</autocolor></a></li>
 </ul>
