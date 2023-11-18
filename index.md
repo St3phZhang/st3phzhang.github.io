@@ -4,19 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a PhD candidate in the Data and Knowledge Research Group, School of Computer Science and Engineering, the University of New South Wales supervised by Scientia Prof. Xuemin Lin and Prof. Wenjie Zhang. 
 
 ## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
+- **Graph Data Analytics and Management:** data mining, data streams, distributed database systems
+- **AI4DB:** Machine learning algorithms for data management and database systems
+- **Graph Learning:** Graph represetation learning for graph data analytics and mining
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Aug. 2023]** One paper about machine-generated data compression is accepted to SIGMOD 2024!
+- **[Nov. 2022]** One paper about path enumeration is accepted to ICDE 2023.
 
 {% include_relative _includes/publications.md %}
 

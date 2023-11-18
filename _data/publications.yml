@@ -1,22 +1,27 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "High-Ratio Compression for Machine-Generated Data"
+    authors: Jiujing Zhang, Zhitao Shen, Shiyu Yang, Meng Lingkai, Chuan Xiao, Wei Jia, Yue Li, Qinhui Sun, Wenjie Zhang, Xuemin Lin
+    conference_short: SIGMOD
+    conference: ACM International Conference on Management of Data <strong>(SIGMOD)</strong>, 2024.
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Research Paper
+    # image: ./assets/img/teaser_example_2.png
+
+
+# ICDE 2023: 762-775
+
+  - title: "Hop-Constrained s-t Simple Path Enumeration on Large Dynamic Graphs"
+    authors: Jiujing Zhang, Shiyu Yang, Dian Ouyang, Fan Zhang, Xuemin Lin, Long Yuan
+    conference_short: ICDE
+    conference: IEEE International Conference on Data Engineering <strong>(ICDE)</strong>, 2023.
+    # pdf: https://arxiv.org/pdf/2002.10211.pdf
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Research Paper
+    # image: ./assets/img/teaser_example.png
