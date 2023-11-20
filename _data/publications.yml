@@ -2,7 +2,7 @@ main:
 
 
   - title: "High-Ratio Compression for Machine-Generated Data"
-    authors: Jiujing Zhang, Zhitao Shen, Shiyu Yang, Meng Lingkai, Chuan Xiao, Wei Jia, Yue Li, Qinhui Sun, Wenjie Zhang, Xuemin Lin
+    authors: Jiujing Zhang, Zhitao Shen, Shiyu Yang, Lingkai Meng, Chuan Xiao, Wei Jia, Yue Li, Qinhui Sun, Wenjie Zhang, Xuemin Lin
     conference_short: SIGMOD
     conference: ACM International Conference on Management of Data <strong>(SIGMOD)</strong>, 2024.
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
